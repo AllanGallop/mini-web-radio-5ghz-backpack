@@ -199,6 +199,9 @@ The backpack is a compromise, but it lets the existing radio connect to 5 GHz wi
 
 A future version could bring both jobs back onto one suitably supported chip. For now, the C5 gets the stream and the S3 plays it, which is what the radio needed to do in the first place.
 
+[<img src=".github/makerspace.webp" height="50" />](https://meninshedsmk.org.uk/makerspace) <br>
+Thanks to my Makerspace - For putting up with my antics :D
+
 ## Technical references
 
 - [Mini Web Radio v3 hardware and firmware](https://github.com/AllanGallop/mini-web-radio-3)
